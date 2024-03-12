@@ -2,3 +2,5 @@ Daniela
 Mauricio
 Lucas
 Ana
+Alice
+Julia
